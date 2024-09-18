@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-# Load the CSV file
+# Load the CSV files
 data = pd.read_csv("File Path")
 
 # Display the first few rows
